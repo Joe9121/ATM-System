@@ -49,8 +49,4 @@ To get started with the ATM project, please refer to the documentation in the `d
 
 We welcome contributions to our ATM project! If you have any ideas, bug fixes, or enhancements, please feel free to open an issue or submit a pull request. We appreciate your interest in improving our project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and documentation in this repository according to the terms specified in the license.
-
 We hope you find our ATM system helpful and reliable for your banking needs!
